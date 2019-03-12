@@ -2,6 +2,6 @@
 webpack+vue打造简单的todolist应用
 
 
-1.安装依赖，输入命令npm install
-2.输入npm run dev运行
+1.安装依赖，输入命令npm install \n
+2.输入npm run dev运行\n
 3.输入npm run build打包
